@@ -1,1 +1,1 @@
-# Markdown syntax with Reveal.JS Framework
+# Markdown language with Reveal.JS Framework
