@@ -1,1 +1,1 @@
-# Presentation template based on Reveal Framework
+# Markdown syntax with Reveal.JS Framework
