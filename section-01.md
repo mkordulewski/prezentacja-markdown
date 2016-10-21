@@ -35,3 +35,9 @@
     * podział na sekcje (rozdziały) i strony,
     * fragmenty - elementy wizualne na jednej stronie, które pokazywane są sukcesywnie a nie od razu po wejściu na stronę.
     * notatki (_speaker's notes_)
+
+
+### Składnia
+* Markdown jest formatem tekstowym.
+* Podstawą formatowania jest czysty tekst (_plain text_).
+* Formatowanie realizowane jest za pomocą prostych, widzianych znaków ASCII takich jak: `*`, `_`, `|`, `-`.
