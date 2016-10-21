@@ -25,3 +25,13 @@
 * nie pozwala równać tekstu (centrowanie, justowanie, równanie do lewej lub prawej),
 * nie wspiera układu strony.
 * nie pozwala precyzyjnie rozmieszczać elementów na stronie.
+
+
+### Dodatkowe wsparcie
+* użycie HTML wewnątrz tekstu w formacie Markdown
+    * elementy HTML, a razem z nimi style i klasy CSS.
+* dostarczane przez rozszerzenia i frameworki, np. Reveal.JS użyty do niniejszej publikacji, np:
+    * dodawanie styli i klas CSS,
+    * podział na sekcje (rozdziały) i strony,
+    * fragmenty - elementy wizualne na jednej stronie, które pokazywane są sukcesywnie a nie od razu po wejściu na stronę.
+    * notatki (_speaker's notes_)
