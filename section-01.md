@@ -17,3 +17,11 @@
 * (proste) umieszczanie linków
 * (proste) umieszczanie obrazków
 * cytaty i kod
+
+
+### Czego Markdown nie wspiera
+* nie posługuje się pojęciem strony, nie dostarcza podziału na strony, tekst jest strumieniem,
+* nie pozwala nadawać kolorów, stylów ani reużywalnych klas (np. CSS),
+* nie pozwala równać tekstu (centrowanie, justowanie, równanie do lewej lub prawej),
+* nie wspiera układu strony.
+* nie pozwala precyzyjnie rozmieszczać elementów na stronie.
