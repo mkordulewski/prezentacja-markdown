@@ -8,6 +8,12 @@
 ### Przeznaczenie
 * formatowanie tekstu,
 * separacja formatowania od technicznej strony prezentacji (np. _HTML_ i _CSS_).
+* m.in. szybkie tworzenie:
+    * stron internetowych,
+    * dokumentacji technicznej,
+    * prezentacji.
+
+      Niniejsza prezentacja jest tego przykładem.
 
 
 ### Co Markdown wspiera
