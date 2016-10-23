@@ -17,3 +17,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Nam turpis ex, laoreet sed rutrum sit amet, mattis nec risus. Suspendisse libero est, consequat eu venenatis quis, auctor ut velit.
 ```
+
+
+### Formatowanie tekstu
+Tekst może być **wytłuszczany** lub _pochylony_.
+```
+Tekst może być **wytłuszczany** lub _pochylony_.
+```
