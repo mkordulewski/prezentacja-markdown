@@ -20,32 +20,32 @@ Nam turpis ex, laoreet sed rutrum sit amet, mattis nec risus. Suspendisse libero
 
 
 ### Formatowanie tekstu
-Tekst może być **wytłuszczany** lub _pochylony_.
+Tekst może być **wytłuszczony** lub _pochylony_.
 
 Składnia:
 ```
-Tekst może być **wytłuszczany** lub _pochylony_.
+Tekst może być **wytłuszczony** lub _pochylony_.
 ```
 
 
 ### Formatowanie tekstu (2)
-Tekst może być _**wytłuszczany i pochylony**_.
+Tekst może być _**wytłuszczony i pochylony**_.
 
-Tekst może być **_wytłuszczany i pochylony_**.
+Tekst może być **_wytłuszczony i pochylony_**.
 
-Tekst może być *__wytłuszczany i pochylony__*.
+Tekst może być *__wytłuszczony i pochylony__*.
 
-Tekst może być __*wytłuszczany i pochylony*__.
+Tekst może być __*wytłuszczony i pochylony*__.
 
 Składnia:
 ```
-Tekst może być _**wytłuszczany i pochylony**_.
+Tekst może być _**wytłuszczony i pochylony**_.
 
-Tekst może być **_wytłuszczany i pochylony_**.
+Tekst może być **_wytłuszczony i pochylony_**.
 
-Tekst może być *__wytłuszczany i pochylony__*.
+Tekst może być *__wytłuszczony i pochylony__*.
 
-Tekst może być __*wytłuszczany i pochylony*__.
+Tekst może być __*wytłuszczony i pochylony*__.
 ```
 
 
@@ -54,11 +54,11 @@ UWAGA: w składni wytłuszczania i pochylania liczy się liczba znaków a nie kt
 
 Składnia:
 ```
-Tekst może być __wytłuszczany__ lub _pochylony_.
-Tekst może być **wytłuszczany** lub *pochylony*.
+Tekst może być __wytłuszczony__ lub _pochylony_.
+Tekst może być **wytłuszczony** lub *pochylony*.
 ```
 Wynik:
 
-Tekst może być __wytłuszczany__ lub _pochylony_.
+Tekst może być __wytłuszczony__ lub _pochylony_.
 
-Tekst może być **wytłuszczany** lub *pochylony*.
+Tekst może być **wytłuszczony** lub *pochylony*.
