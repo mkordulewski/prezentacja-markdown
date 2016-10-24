@@ -76,3 +76,19 @@ DO LEWEJ: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, c
 CENTROWANIE: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.<!-- .element: style="text-align: center" -->
 
 DO PRAWEJ: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.<!-- .element: style="text-align: right" -->
+
+
+### Równanie tekstu
+#### Składnia dodana przez Reveal.JS
+```
+DOMYŚLNIE: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.
+
+JUSTOWANIE: Lorem ipsum ...<!-- .element: style="text-align: justify" -->
+
+DO LEWEJ: Lorem ipsum ...<!-- .element: style="text-align: left" -->
+
+CENTROWANIE: Lorem ipsum ...<!-- .element: style="text-align: center" -->
+
+DO PRAWEJ: Lorem ipsum ...<!-- .element: style="text-align: right" -->
+```
+Równanie tekstu zadeklarowane jest po prawej stronie linii. Jeśli deklaracje są niewidoczne proszę przewinąć kod źródłowy w oknie.
