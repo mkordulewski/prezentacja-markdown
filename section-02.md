@@ -62,3 +62,17 @@ Wynik:
 Tekst może być __wytłuszczony__ lub _pochylony_.
 
 Tekst może być **wytłuszczony** lub *pochylony*.
+
+
+
+### Równanie tekstu
+#### Składnia dodana przez Reveal.JS
+DOMYŚLNIE: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.
+
+JUSTOWANIE: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.<!-- .element: style="text-align: justify" -->
+
+DO LEWEJ: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.<!-- .element: style="text-align: left" -->
+
+CENTROWANIE: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.<!-- .element: style="text-align: center" -->
+
+DO PRAWEJ: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.<!-- .element: style="text-align: right" -->
