@@ -28,7 +28,28 @@ Tekst może być **wytłuszczany** lub _pochylony_.
 ```
 
 
-### Składnia formatowania tekstu
+### Formatowanie tekstu (2)
+Tekst może być _**wytłuszczany i pochylony**_.
+
+Tekst może być **_wytłuszczany i pochylony_**.
+
+Tekst może być *__wytłuszczany i pochylony__*.
+
+Tekst może być __*wytłuszczany i pochylony*__.
+
+Składnia:
+```
+Tekst może być _**wytłuszczany i pochylony**_.
+
+Tekst może być **_wytłuszczany i pochylony_**.
+
+Tekst może być *__wytłuszczany i pochylony__*.
+
+Tekst może być __*wytłuszczany i pochylony*__.
+```
+
+
+### Formatowanie tekstu (3)
 UWAGA: w składni wytłuszczania i pochylania liczy się liczba znaków a nie który znak użyjemy. Oba znaki (* i _) można stotoswać zamiennie, za to znaczące jest wystąpienie pojedyncze lub podwójne znaku.<!-- .element: style="text-align: justify" -->
 
 Składnia:
