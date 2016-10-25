@@ -1,12 +1,14 @@
 # Język Markdown z użyciem frameworka Reveal.JS
 
 1. Wprowadzenie do języka
+    1. Przykład sformatowanego tekstu w Markdown
     1. Przeznaczenie
     1. Koncepcje
     1. Składnia
 1. Formatowanie tekstu
     1. Akapit
-    1. Kursywa i wytłuszczenia 
+    1. Kursywa i wytłuszczenia
+    1. Równanie tekstu
 1. Nagłówki
 1. Listy
     1. Listy punktowane
