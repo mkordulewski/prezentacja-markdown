@@ -26,6 +26,7 @@
 
 
 ### Lista punktowana zagnieżdzona
+---
 - element 1
   - element 1.1
   - element 1.2
@@ -35,6 +36,18 @@
 - element 3
   - element 3.1
   - element 3.2
+---
+```
+- element 1
+  - element 1.1
+  - element 1.2
+- element 2
+  - element 2.1
+  - element 2.2
+- element 3
+  - element 3.1
+  - element 3.2
+```
 
 
 ### Lista numerowana
