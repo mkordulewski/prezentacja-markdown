@@ -51,7 +51,7 @@
 
 
 ### Lista numerowana
-Punktorami mogą być kolejne liczby.
+Punktorami mogą być kolejne liczby: `1.`, `2.`, `3.`, ...
 
 ---
 1. element 1
