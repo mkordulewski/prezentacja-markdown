@@ -35,3 +35,13 @@ Punktorami są kolejne liczby:
 4. element 4 (punktor 4.)
 5. element 5 (punktor 5.)
 6. element 6 (punktor 6.)
+
+
+### Lista numerowana
+Jednakowe punktory:
+1. element 1 (punktor 1.)
+1. element 2 (punktor 1.)
+1. element 3 (punktor 1.)
+1. element 4 (punktor 1.)
+1. element 5 (punktor 1.)
+1. element 6 (punktor 1.)
