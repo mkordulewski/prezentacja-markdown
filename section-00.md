@@ -20,3 +20,10 @@ Wielkość tekstu można modyfikować za pomocą mechanizmów dostępnych w wię
 * `Ctrl` + `+` - powiększa tekst,
 * `Ctrl` + `-` - pomniejsza tekst,
 * `Ctrl` + `0` - przywraca domyślny rozmiar tekstu.
+
+
+### Wersje wizualne
+Prezentacja posiada różne wersje wizualne, różniące się kolorystycznie i stylem tekstu. Ułatwiają różne użycie je w różnych warunkach, m.in. z różnym kontrastem. Sposób przełączenia:
+* Firefox: menu `Widok` > `Styl strony`
+* Chrome wymaga instalacji dodatkowej wtyczki, np. `Style Chooser`. Dla tej wtyczki opcja wyboru stylów kolorystycznych dostępna jest na prawym skraju paski adresu.
+
