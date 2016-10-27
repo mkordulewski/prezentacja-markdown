@@ -2,8 +2,8 @@
 
 
 ### Typy list w Markdown
-* listy numerowane
 * listy punktowane
+* listy numerowane
 
 
 ### Lista punktowana
@@ -15,7 +15,7 @@
 * element 6 (znak *)
 
 
-### wypunktowana lista zagnieżdzona
+### Lista punktowana zagnieżdzona
 - element 1
   - element 1.1
   - element 1.2
