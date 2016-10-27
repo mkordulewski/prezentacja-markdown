@@ -30,27 +30,26 @@
 
 
 ### Lista punktowana zagnieżdzona
+* Elementy zagnieżdzone muszą być wcięte (2 lub 4 spacje).
+* Zagnieżdzanie może być na wielu poziomach.
+
 ---
 - element 1
   - element 1.1
+    - element 1.1.1
+        - element 1.1.1.1
   - element 1.2
 - element 2
   - element 2.1
-  - element 2.2
-- element 3
-  - element 3.1
-  - element 3.2
 ---
 ```
 - element 1
   - element 1.1
+    - element 1.1.1
+        - element 1.1.1.1
   - element 1.2
 - element 2
   - element 2.1
-  - element 2.2
-- element 3
-  - element 3.1
-  - element 3.2
 ```
 
 
