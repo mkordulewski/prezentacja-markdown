@@ -55,7 +55,7 @@
 
 ### Lista numerowana
 * Analogicznie jak w liście punktowanej.
-* Punktorami mogą być kolejne liczby (`1.`, `2.`, ...).
+* Punktorami są liczby (np.: `1.`, `2.`, `3.`, ...).
 * Po liczbie musi nastąpić kropka i co najmniej jedna spacja.
 
 ---
@@ -72,8 +72,26 @@
 ```
 
 
-### Lista numerowana
-Punktory mogą być jednakowe, w tym przypadku `1.`
+### Lista numerowana (2)
+* Użyta w punktorze liczba nie jest istotna.
+* Liczba w pierwszym punktorze nie musi być jedynką.
+* Liczba w kolejnym punktorze nie musi być liczbą o jeden większą.
+
+---
+2. element 1
+5. element 2
+1. element 3
+---
+```
+2. element 1
+5. element 2
+1. element 3
+```
+
+
+### Lista numerowana (3)
+* Punktory mogą mieć dowolne liczby, w tym przypadku `1.`
+* Użyta w punktorze liczba nie jest istotna.
 
 ---
 1. element 1
