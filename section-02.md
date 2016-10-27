@@ -71,6 +71,7 @@ Tekst może być **wytłuszczony** lub *pochylony*.
 
 ### Równanie tekstu
 #### Składnia dodana przez Reveal.JS
+---
 DOMYŚLNIE: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.
 
 JUSTOWANIE: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.<!-- .element: style="text-align: justify" -->
@@ -84,6 +85,9 @@ DO PRAWEJ: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, 
 
 ### Równanie tekstu
 #### Składnia dodana przez Reveal.JS
+Równanie tekstu zadeklarowane jest po prawej stronie linii w postaci komentarza HTML. Jeśli deklaracje są niewidoczne proszę przewinąć kod źródłowy w oknie.
+
+---
 ```
 DOMYŚLNIE: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.
 
@@ -95,4 +99,3 @@ CENTROWANIE: Lorem ipsum ...<!-- .element: style="text-align: center" -->
 
 DO PRAWEJ: Lorem ipsum ...<!-- .element: style="text-align: right" -->
 ```
-Równanie tekstu zadeklarowane jest po prawej stronie linii. Jeśli deklaracje są niewidoczne proszę przewinąć kod źródłowy w oknie.
