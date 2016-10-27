@@ -111,6 +111,12 @@
 ```
 
 
+### Dobre praktyki list numerowanych
+* Punktory w postaci kolejnych liczb pozwalają na lepszą orientację w tekście źródłowym, ale są trudniejsze w utrzymaniu - wstawianiu i usuwaniu elementów listy.
+* Punktory w postaci przypadkowych liczb nie mają zalet, powodują chaos. Są poprawne ale lepiej ich unikać.
+* Punktory w postaci jednakowej liczby (np. `1` - poprzedni slajd) pozwalają na łatwe utrzymanie listy, proste wstawianie i usuwanie elementów. Liczbę elementów na liście i ich numery poznamy jednak dopiero po wyświetleniu a nie w tekście źródłowym.
+
+
 ### Lista numerowana zagnieżdzona
 ---
 1. element 1
