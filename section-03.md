@@ -54,23 +54,21 @@
 
 
 ### Lista numerowana
-Punktorami mogą być kolejne liczby: `1.`, `2.`, `3.`, ...
+* Analogicznie jak w liście punktowanej.
+* Punktorami mogą być kolejne liczby (`1.`, `2.`, ...).
+* Po liczbie musi nastąpić kropka i co najmniej jedna spacja.
 
 ---
 1. element 1
 2. element 2
 3. element 3
 4. element 4
-5. element 5
-6. element 6
 ---
 ```
 1. element 1
 2. element 2
 3. element 3
 4. element 4
-5. element 5
-6. element 6
 ```
 
 
