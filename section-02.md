@@ -8,10 +8,12 @@
 
 
 ### Przykłady akapitów
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Nam turpis ex, laoreet sed rutrum sit amet, mattis nec risus. Suspendisse libero est, consequat eu venenatis quis, auctor ut velit.
 
+---
 ```markdown
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
