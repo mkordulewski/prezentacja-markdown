@@ -7,6 +7,10 @@
 
 
 ### Lista punktowana
+* Punktorami mogą być znaki: `-`, `+`, `*`.
+* Po punktorze musi nastąpić co najmniej jedna spacja.
+* Kolejne elementy listy wymieniane są w kolejnych wierszach.
+
 ---
 - element 1
 - element 2
