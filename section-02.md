@@ -22,9 +22,10 @@ Nam turpis ex, laoreet sed rutrum sit amet, mattis nec risus. Suspendisse libero
 
 
 ### Formatowanie tekstu
+---
 Tekst może być **wytłuszczony** lub _pochylony_.
 
-Składnia:
+---
 ```
 Tekst może być **wytłuszczony** lub _pochylony_.
 ```
