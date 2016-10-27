@@ -72,13 +72,24 @@ Punktorami mogą być kolejne liczby.
 
 
 ### Lista numerowana
-Jednakowe punktory:
+Punktory mogą być jednakowe, w tym przypadku `1.`
+
+---
 1. element 1 (punktor 1.)
 1. element 2 (punktor 1.)
 1. element 3 (punktor 1.)
 1. element 4 (punktor 1.)
 1. element 5 (punktor 1.)
 1. element 6 (punktor 1.)
+---
+```
+1. element 1 (punktor 1.)
+1. element 2 (punktor 1.)
+1. element 3 (punktor 1.)
+1. element 4 (punktor 1.)
+1. element 5 (punktor 1.)
+1. element 6 (punktor 1.)
+```
 
 
 ### Lista numerowana zagnieżdzona
