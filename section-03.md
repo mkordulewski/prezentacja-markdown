@@ -47,10 +47,20 @@ Jednakowe punktory:
 1. element 6 (punktor 1.)
 
 
-# Lista numerowana zagnieżdzona
+### Lista numerowana zagnieżdzona
+---
 1. element 1
    1. element 1.1
    1. element 1.2
 1. element 2
    1. element 2.1
    1. element 2.2
+---
+```
+1. element 1
+   1. element 1.1
+   1. element 1.2
+1. element 2
+   1. element 2.1
+   1. element 2.2
+```
