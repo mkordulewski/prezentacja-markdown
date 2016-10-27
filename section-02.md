@@ -32,6 +32,7 @@ Tekst może być **wytłuszczony** lub _pochylony_.
 
 
 ### Formatowanie tekstu (2)
+---
 Tekst może być _**wytłuszczony i pochylony**_.
 
 Tekst może być **_wytłuszczony i pochylony_**.
@@ -40,7 +41,7 @@ Tekst może być *__wytłuszczony i pochylony__*.
 
 Tekst może być __*wytłuszczony i pochylony*__.
 
-Składnia:
+---
 ```
 Tekst może być _**wytłuszczony i pochylony**_.
 
