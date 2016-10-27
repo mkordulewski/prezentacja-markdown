@@ -27,7 +27,7 @@
   - element 3.2
 
 
-# Lista numerowana
+### Lista numerowana
 Punktorami są kolejne liczby:
 1. element 1 (punktor 1.)
 2. element 2 (punktor 2.)
