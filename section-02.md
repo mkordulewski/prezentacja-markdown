@@ -56,16 +56,16 @@ Tekst może być __*wytłuszczony i pochylony*__.
 ### Formatowanie tekstu (3)
 UWAGA: w składni wytłuszczania i pochylania liczy się liczba znaków a nie który znak użyjemy. Oba znaki (* i _) można stotoswać zamiennie, za to znaczące jest wystąpienie pojedyncze lub podwójne znaku.<!-- .element: style="text-align: justify" -->
 
-Składnia:
+---
+Tekst może być __wytłuszczony__ lub _pochylony_.
+
+Tekst może być **wytłuszczony** lub *pochylony*.
+
+---
 ```
 Tekst może być __wytłuszczony__ lub _pochylony_.
 Tekst może być **wytłuszczony** lub *pochylony*.
 ```
-Wynik:
-
-Tekst może być __wytłuszczony__ lub _pochylony_.
-
-Tekst może być **wytłuszczony** lub *pochylony*.
 
 
 
