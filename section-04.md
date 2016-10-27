@@ -134,3 +134,42 @@
    1. element 2.1
    1. element 2.2
 ```
+
+
+### Element listy z akapitem
+* Element listy może zawierać cały akapit tekstu lub nawet kilka akapitów.
+* Akapit taki musi być od poprzedzającego wiersza odseparowany pustym wierszem (tak jak każdy akapit).
+* Akapit taki musi być wciety na ten sam poziom co element, który go zawiera.
+
+
+### Przykład elementów listy z akapitami
+---
+1. element 1
+
+   Akapit w ramach punktu 1
+
+   Kolejny akapit w ramach punktu 1
+   1. element 1.1
+
+      Akapit w ramach punktu 1.1
+
+      Kolejny akapit w ramach punktu 1.1
+
+   Trzeci akapit w ramach punktu 1
+
+
+### Tekst źródłowy elementów listy z akapitami
+```
+1. element 1
+
+   Akapit w ramach punktu 1
+
+   Kolejny akapit w ramach punktu 1
+   1. element 1.1
+
+      Akapit w ramach punktu 1.1
+
+      Kolejny akapit w ramach punktu 1.1
+
+   Trzeci akapit w ramach punktu 1
+```
