@@ -25,3 +25,13 @@
 - element 3
   - element 3.1
   - element 3.2
+
+
+# Lista numerowana
+Punktorami są kolejne liczby:
+1. element 1 (punktor 1.)
+2. element 2 (punktor 2.)
+3. element 3 (punktor 3.)
+4. element 4 (punktor 4.)
+5. element 5 (punktor 5.)
+6. element 6 (punktor 6.)
