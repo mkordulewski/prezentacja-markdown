@@ -27,3 +27,12 @@ Prezentacja posiada różne wersje wizualne, różniące się kolorystycznie i s
 * Firefox: menu `Widok` > `Styl strony`
 * Chrome wymaga instalacji dodatkowej wtyczki, np. `Style Chooser`. Dla tej wtyczki opcja wyboru stylów kolorystycznych dostępna jest na prawym skraju paski adresu.
 
+
+### Wersje wizualne (2)
+#### Beige
+![Wersja 'Beige'](resources/presentation-01.png)
+
+
+### Wersje wizualne (3)
+#### Sky
+![Wersja 'Sky'](resources/presentation-02.png)
