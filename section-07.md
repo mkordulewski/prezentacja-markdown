@@ -110,3 +110,17 @@ Pellentesque nec odio non dolor iaculis sodales vitae sed odio.
 > * Element 2
 > * Element 3
 ```
+
+
+### Cytat z listą numerowaną
+---
+> 1. Element 1
+> 1. Element 2
+> 1. Element 3
+
+---
+```
+> 1. Element 1
+> 1. Element 2
+> 1. Element 3
+```
