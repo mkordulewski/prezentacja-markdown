@@ -132,3 +132,23 @@ Pellentesque nec odio non dolor iaculis sodales vitae sed odio.
 >   1. Element 2.1
 > 1. Element 3
 ```
+
+
+## Połączenie akapitów i cytatów
+* naturalne, wynika z wcześniej zaprezentowanej składni
+
+---
+Albert Einstein:
+> Wyobraźnia jest ważniejsza od wiedzy, ponieważ wiedza jest ograniczona.
+
+Arystoteles:
+> Prawdziwa wiedza to znajomość przyczyn.
+
+---
+```
+Albert Einstein:
+> Wyobraźnia jest ważniejsza od wiedzy, ponieważ wiedza jest ograniczona.
+
+Arystoteles:
+> Prawdziwa wiedza to znajomość przyczyn.
+```
