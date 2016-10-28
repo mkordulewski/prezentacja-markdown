@@ -2,6 +2,16 @@
 
 
 ### Przykładowe linki
+* Linki tworzymy za pomocą składni:
+```
+[OPIS](URL)
+```
+* Do linku można także dodać "dymek", który pojawia się po najechaniu na link:
+```
+[OPIS](URL "DYMEK")
+```
+* Poprawne URL-e umieszczone wprost w tekście także są zamieniane na klikalne linki.
+
 ---
 * [przykładowy link z zamianą na tekst](http://przyklad.pl/)
 * [przykładowy link z zamianą na tekst](http://przyklad.pl/ "Treść 'dymka' - element title") - link z "dymkiem" (atrybutem "title"), najedź na niego kursorem
