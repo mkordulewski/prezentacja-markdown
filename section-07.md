@@ -96,3 +96,17 @@ Pellentesque nec odio non dolor iaculis sodales vitae sed odio.
 > ##### Nagłówek 5
 > ###### Nagłówek 6
 ```
+
+
+### Cytat z listą punktowaną
+---
+> * Element 1
+> * Element 2
+> * Element 3
+
+---
+```
+> * Element 1
+> * Element 2
+> * Element 3
+```
