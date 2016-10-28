@@ -15,7 +15,7 @@
     1. Listy numerowane
     1. Listy zagnieżdzone
 1. Linki
-1. Obrazki
+1. Grafiki
 1. Cytaty
     1. Cytaty z formatowaniem
     1. Cytaty zagnieżdzone
