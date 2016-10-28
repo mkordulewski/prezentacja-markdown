@@ -6,3 +6,16 @@
 * [przykładowy link z zamianą na tekst](http://przyklad.pl/ "Treść 'dymka' - element title") (i z dymkiem - atrybutem "title")
 * adres URL automatycznie zamieniony na klikalny link:
   http://przyklad.pl/
+
+
+### Linki jako przypisy
+Wyszukiwarki: [Google][1], [Bing][2], [Yahoo][3].
+[1]: http://google.com/ "Google"
+[2]: http://bing.com/   "Bing"
+[3]: http://yahoo.com/  "Yahoo"
+```txt
+Wyszukiwarki: [Google][1], [Bing][2], [Yahoo][3].
+[1]: http://google.com/ "Google"
+[2]: http://bing.com/   "Bing"
+[3]: http://yahoo.com/  "Yahoo"
+```
