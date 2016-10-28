@@ -2,10 +2,19 @@
 
 
 ### Przykładowe linki
+---
 * [przykładowy link z zamianą na tekst](http://przyklad.pl/)
-* [przykładowy link z zamianą na tekst](http://przyklad.pl/ "Treść 'dymka' - element title") (i z dymkiem - atrybutem "title")
+* [przykładowy link z zamianą na tekst](http://przyklad.pl/ "Treść 'dymka' - element title") - link z "dymkiem" (atrybutem "title"), najedź na niego kursorem
 * adres URL automatycznie zamieniony na klikalny link:
   http://przyklad.pl/
+
+---
+```
+* [przykładowy link z zamianą na tekst](http://przyklad.pl/)
+* [przykładowy link z zamianą na tekst](http://przyklad.pl/ "Treść 'dymka' - element title") - link z "dymkiem" (atrybutem "title"), najedź na niego kursorem
+* adres URL automatycznie zamieniony na klikalny link:
+  http://przyklad.pl/
+```
 
 
 ### Linki jako przypisy
