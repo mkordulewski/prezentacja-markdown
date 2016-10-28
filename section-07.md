@@ -1,4 +1,7 @@
 ## Cytaty
+> Wszystka wiedza pochodzi z doświadczenia.
+
+_Immanuel Kant_
 
 
 ### Przykład cytatu
