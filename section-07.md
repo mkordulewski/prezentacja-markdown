@@ -81,28 +81,18 @@ Pellentesque nec odio non dolor iaculis sodales vitae sed odio.
 ### Cytat sformatowany (2)
 ---
 > # Nagłówek 1
->
 > ## Nagłówek 2
->
 > ### Nagłówek 3
->
 > #### Nagłówek 4
->
 > ##### Nagłówek 5
->
 > ###### Nagłówek 6
 
 ---
 ```
 > # Nagłówek 1
->
 > ## Nagłówek 2
->
 > ### Nagłówek 3
->
 > #### Nagłówek 4
->
 > ##### Nagłówek 5
->
 > ###### Nagłówek 6
 ```
