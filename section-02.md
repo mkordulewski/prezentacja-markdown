@@ -99,3 +99,19 @@ CENTROWANIE: Lorem ipsum ...<!-- .element: style="text-align: center" -->
 
 DO PRAWEJ: Lorem ipsum ...<!-- .element: style="text-align: right" -->
 ```
+
+
+### Łamanie linii akapitu
+* Linie akapitu mogą być łamane - pojedynczy znak końca wiersza pozwala podzielić tekst źródłowy na wygodnej długości
+linie a wyświetlony będzie jako jeden spójny akapiy, który automatycznie dostosowuje się do szerokości ekranu.
+* Należy pamiętać, że podwójny znak końca wiersza, czyli jeden pusty wiersz pomiędzy akapitami, tworzy już odrębny akapit.
+
+---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae massa rhoncus, accumsan metus quis, accumsan magna. Pellentesque nec odio non dolor iaculis sodales vitae sed odio.
+
+---
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Donec vitae massa rhoncus, accumsan metus quis, accumsan magna.
+Pellentesque nec odio non dolor iaculis sodales vitae sed odio.
+```
