@@ -107,11 +107,17 @@ linie a wyświetlony będzie jako jeden spójny akapiy, który automatycznie dos
 * Należy pamiętać, że podwójny znak końca wiersza, czyli jeden pusty wiersz pomiędzy akapitami, tworzy już odrębny akapit.
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae massa rhoncus, accumsan metus quis, accumsan magna. Pellentesque nec odio non dolor iaculis sodales vitae sed odio.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Donec vitae massa rhoncus, accumsan metus quis, accumsan magna.
+Pellentesque nec odio non dolor iaculis sodales vitae sed odio.
+Etiam in urna aliquam ante sodales eleifend.
+Cras vitae risus fermentum ipsum facilisis scelerisque ut eu nulla.<!-- .element: style="text-align: justify" -->
 
 ---
 ```
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Donec vitae massa rhoncus, accumsan metus quis, accumsan magna.
 Pellentesque nec odio non dolor iaculis sodales vitae sed odio.
+Etiam in urna aliquam ante sodales eleifend.
+Cras vitae risus fermentum ipsum facilisis scelerisque ut eu nulla.<!-- .element: style="text-align: justify" -->
 ```
