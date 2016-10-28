@@ -18,4 +18,10 @@
 
 
 ### Grafika z linkiem
+---
 [![Atrybut <alt/> elementu <img/>](resources/markdown.svg)](https://pl.wikipedia.org/wiki/Markdown "Atrybut <title/> elementu <a/>")
+
+---
+```
+[![Atrybut <alt/> elementu <img/>](resources/markdown.svg)](https://pl.wikipedia.org/wiki/Markdown "Atrybut <title/> elementu <a/>")
+```
