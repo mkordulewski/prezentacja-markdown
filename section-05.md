@@ -19,3 +19,16 @@ Wyszukiwarki: [Google][1], [Bing][2], [Yahoo][3].
 [2]: http://bing.com/   "Bing"
 [3]: http://yahoo.com/  "Yahoo"
 ```
+
+
+### Linki jako przypisy (c.d.)
+Wyszukiwarki: [Google][g], [Bing][b], [Yahoo][y].
+[g]: http://google.com/ "Google"
+[b]: http://bing.com/   "Bing"
+[y]: http://yahoo.com/  "Yahoo"
+```txt
+Wyszukiwarki: [Google][g], [Bing][b], [Yahoo][y].
+[g]: http://google.com/ "Google"
+[b]: http://bing.com/   "Bing"
+[y]: http://yahoo.com/  "Yahoo"
+```
