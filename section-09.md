@@ -30,6 +30,13 @@ Fragment kodu: ````git merge ...````
 
 
 ### Przykład kodu blokowego
+---
 ```sh
 git clone https://github.com/mkordulewski/prezentacja-markdown.git
 ```
+---
+`````
+```sh
+git clone https://github.com/mkordulewski/prezentacja-markdown.git
+```
+`````
