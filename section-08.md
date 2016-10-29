@@ -15,6 +15,13 @@
 
 
 ### Równanie poziome w tabelach
+---
 | domyślnie | do lewej  | do środka | do prawej |
 |-----------|:----------|:---------:|----------:|
 | A         | B         | C         | D         |
+---
+```
+| domyślnie | do lewej  | do środka | do prawej |
+|-----------|:----------|:---------:|----------:|
+| A         | B         | C         | D         |
+```
