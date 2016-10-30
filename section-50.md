@@ -1,6 +1,16 @@
 ## Dodatki Reveal.JS
 
 
+### Fragmenty
+* to elementy dostępne na jednym slajdzie, które pojawiają się sekwencyjnie a nie równocześnie.
+W ten sposób można wprowadzić stopniowy opis pewnego zjawiska.
+* fragment jest deklarowany przez nadanie klasy "fragment".
+* fragmenty domyślnie pojawiają się na stronie w kolejności zadeklarowanej w tekście lub kodzie źródłowym.
+* można zmienić kolejność wyświetlania elementów za pomocą atrybutu "data-fragment-index".
+
+Przykłady na kolejnych slajdach
+
+
 ## Przykład fragmentów
 * elementom listy nadana została klasa `fragment`
 
