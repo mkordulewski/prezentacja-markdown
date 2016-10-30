@@ -2,7 +2,7 @@
 
 
 ## Przykład fragmentów
-* elementom listy nadana została klasa "fragment"
+* elementom listy nadana została klasa `fragment`
 
 [naciśnij strzałkę w dół lub spację]
 
