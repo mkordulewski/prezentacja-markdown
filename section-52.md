@@ -14,4 +14,4 @@ Notatki dotyczące slajdu
 Notes: 
 Notatki dotyczące slajdu
 ```
-* UWAGA: notatki błędnie współpracują z kodem blokowym i notatka umieszczona w kodzie, a więc przeznaczona do prezentacji kodu a nie działania, jest interpretowana jako właściwe, produkcyjne użycie notatki. Konwerter Markdown -> HTML został "oszukany" przez wstawienie dodatkowego białego znaku na końcu wiersza `Notes: ` co nie odpowiada wyrażeniu regularnemu `^Notes:$`.
+* UWAGA: notatki błędnie współpracują z kodem blokowym i notatka umieszczona w kodzie, a więc przeznaczona do prezentacji kodu a nie działania, jest interpretowana jako właściwe, produkcyjne użycie notatki. Konwerter Markdown -> HTML został "oszukany" przez wstawienie dodatkowego białego znaku na końcu wiersza `Notes: ` co nie odpowiada wyrażeniu regularnemu `^Notes:$`. Taki znak na końcu linii może jednak być automatycznie usuwany w zależności od ustawień IDE.
