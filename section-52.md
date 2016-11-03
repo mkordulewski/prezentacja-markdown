@@ -10,6 +10,14 @@ Notatki dotyczące slajdu
 
 
 ## Kod notatki
+* Notatki rozpoczynamy ciągiem znaków, którym skonfigurujemy w elemencie `section` w wartości atrybutu `data-separator-notes`.
+* W niniejszej prezentacji użyty został ciąg `^Notes:$` gdzie znaki `^` i `$` są znakami specjalnymi z wyrażeń regularnych i oznaczają odpowiednio początek i koniec wiersza. Tak więc w tym przykładzie notatki notatki
+
+  Plik HTML:
+```html
+<section data-separator-notes="^Notes:$" />
+```
+  Plik Markdown:
 ```
 Notes: 
 Notatki dotyczące slajdu
