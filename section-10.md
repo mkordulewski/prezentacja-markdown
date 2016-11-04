@@ -1,5 +1,7 @@
 ## Separatory
 
+(linie poziome)
+
 
 ### Przykład separatora
 > Lorem ipsum
