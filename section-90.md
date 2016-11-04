@@ -8,9 +8,9 @@
 
 ### Zła praktyka: style CSS
 * Używanie stylów CSS w tekście Markdown z pewnością jest złym rozwiązaniem, gdyż:
-    * trwale nadaje tekstowi style.
-    * utrudnia używanie zewnętrznych arkuszy stylów.
-    * utrudnia używanie skórek.
+    * Trwale nadaje tekstowi style.
+    * Utrudnia używanie zewnętrznych arkuszy stylów.
+    * Utrudnia używanie skórek.
 * Jest to odpowiednik stylów osadzonych (_inline styles_) z HTML.
 * Zamiast nadawania stylów powinny być nadawane klasy CSS.
 
