@@ -18,15 +18,27 @@ W niniejszym przykładzie separator jest umieszczony wewnątrz cytatu dla lepsze
 
 
 ### Kod separatora
-> Lorem ipsum
->
-> ---
-> Lorem ipsum
+W przykładzie użyte zostały:
+* różne znaki separatora,
+* różne długości separatora,
+* separator o niejednakowych znakach.
 
 ---
 ```
-> Lorem ipsum
+> Lorem ipsum (1)
 >
 > ---
-> Lorem ipsum
+> Lorem ipsum (2)
+>
+> ***
+> Lorem ipsum (3)
+>
+> ___
+> Lorem ipsum (4)
+>
+> *****
+> Lorem ipsum (5)
+>
+> -_*
+> Lorem ipsum (6)
 ```
