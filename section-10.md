@@ -3,6 +3,11 @@
 (linie poziome)
 
 
+### Czym są separatory
+* Separatory są prezentowane jako pozioma kreska.
+* Ich celem jest separowanie następujących po sobie treści.
+
+
 ### Przykład separatora
 > Lorem ipsum
 >
