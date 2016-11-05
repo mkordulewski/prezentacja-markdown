@@ -42,3 +42,25 @@ W przykładzie użyte zostały:
 > -_*
 > Lorem ipsum (6)
 ```
+
+
+### Rezultat przykladowego kodu separatorów
+Jak widzimy wszystkie separatory z poprzedniego slajdu są prezentowane jednakowo:
+
+---
+> Lorem ipsum (1)
+>
+> ---
+> Lorem ipsum (2)
+>
+> ***
+> Lorem ipsum (3)
+>
+> ___
+> Lorem ipsum (4)
+>
+> *****
+> Lorem ipsum (5)
+>
+> -_*
+> Lorem ipsum (6)
