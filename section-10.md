@@ -15,3 +15,18 @@ W niniejszym przykładzie separator jest umieszczony wewnątrz cytatu dla lepsze
 ### Zasady umieszczania separatorów
 * Separatory tworzone są za pomocą znaków `-`, `*` lub `_` (kreska, gwiazdka, podkreślenie).
 * By utworzyć separator należy umieścić co najmniej 3 znaki spośród wcześniej wymienionych (nie muszą być jednakowe) w osobnym wierszu i poprzedzić go pustym wierszem.
+
+
+### Kod separatora
+> Lorem ipsum
+>
+> ---
+> Lorem ipsum
+
+---
+```
+> Lorem ipsum
+>
+> ---
+> Lorem ipsum
+```
