@@ -12,6 +12,11 @@
 * Kod blokowy może być dodatkowo oznaczony nazwą języka, co zostanie użyte do kolorowania składni.
 
 
+### Kolorowanie składni
+* Do kolorowania składni w Reveal.JS jest używana w formie wtyczki biblioteka _highlight.js_.
+* Wspierane są języki i składnia: Apache (składnia plików konfiguracyjnych), Bash, CoffeeScript, C++, C#, CSS, Diff, HTTP (składnia żądań i odpowiedzi), Ini, Java, Javascript, JSON, Makefile, Markdown, Nginx (składnia plików konfiguracyjnych), Objective-C, Perl, PHP, Python, Ruby, SQL, HTML, XML.
+
+
 ### Przykład kodu inline
 ---
 Fragment kodu: `git clone ...`
