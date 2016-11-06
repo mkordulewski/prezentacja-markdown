@@ -25,7 +25,7 @@
 ### Dodatkowe wsparcie
 * użycie HTML wewnątrz tekstu w formacie Markdown
     * elementy HTML, a razem z nimi style i klasy CSS.
-* dostarczane przez rozszerzenia i frameworki, np. Reveal.JS użyty do niniejszej publikacji, np:
+* dostarczane przez rozszerzenia i frameworki, np. _reveal.js_ użyty do niniejszej publikacji, np:
     * dodawanie styli i klas CSS,
     * podział na sekcje (rozdziały) i strony,
     * fragmenty - elementy wizualne na jednej stronie, które pokazywane są sukcesywnie a nie od razu po wejściu na stronę.
@@ -69,7 +69,7 @@
 ### Dodatkowe wsparcie
 * użycie HTML wewnątrz tekstu w formacie Markdown
     * elementy HTML, a razem z nimi style i klasy CSS.
-* dostarczane przez rozszerzenia i frameworki, np. Reveal.JS użyty do niniejszej publikacji, np:
+* dostarczane przez rozszerzenia i frameworki, np. _reveal.js_ użyty do niniejszej publikacji, np:
     * dodawanie styli i klas CSS,
     * podział na sekcje (rozdziały) i strony,
     * fragmenty - elementy wizualne na jednej stronie, które pokazywane są sukcesywnie a nie od razu po wejściu na stronę.

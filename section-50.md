@@ -1,4 +1,4 @@
-## Dodatki Reveal.JS
+## Dodatki _reveal.js_
 
 
 ### Typy dodatków

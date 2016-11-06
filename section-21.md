@@ -70,7 +70,7 @@ Tekst może być **wytłuszczony** lub *pochylony*.
 
 
 ### Równanie tekstu
-#### Składnia dodana przez Reveal.JS
+#### Składnia dodana przez _reveal.js_
 ---
 DOMYŚLNIE: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, consectetur adipis ax ipsum dolor sit amet, consectetur adipis ax.
 
@@ -84,7 +84,7 @@ DO PRAWEJ: Lorem ipsum dolor sit amet, consectetur adipis ipsum dolor sit amet, 
 
 
 ### Równanie tekstu
-#### Składnia dodana przez Reveal.JS
+#### Składnia dodana przez _reveal.js_
 Równanie tekstu zadeklarowane jest po prawej stronie linii w postaci komentarza HTML. Jeśli deklaracje są niewidoczne proszę przewinąć kod źródłowy w oknie.
 
 ---

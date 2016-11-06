@@ -1,4 +1,4 @@
-# Język Markdown z użyciem frameworka Reveal.JS
+# Język Markdown z użyciem frameworka _reveal.js_
 
 1. Wprowadzenie do języka
     1. Przykład sformatowanego tekstu w Markdown
@@ -26,6 +26,6 @@
     1. Separatory - linie poziome
     1. Tekst formatowany za pomocą wcięć
 1. Notatki (speaker notes)
-1. Specyfika Reveal.JS
+1. Specyfika _reveal.js_
     1. Fragmenty
     1. Style

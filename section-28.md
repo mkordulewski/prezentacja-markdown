@@ -13,8 +13,8 @@
 
 
 ### Kolorowanie składni
-* Do kolorowania składni w Reveal.JS jest używana w formie wtyczki biblioteka _highlight.js_.
-* Wspierane są języki i składnia: Apache (składnia plików konfiguracyjnych), Bash, CoffeeScript, C++, C#, CSS, Diff, HTTP (składnia żądań i odpowiedzi), Ini, Java, Javascript, JSON, Makefile, Markdown, Nginx (składnia plików konfiguracyjnych), Objective-C, Perl, PHP, Python, Ruby, SQL, HTML, XML.
+* Do kolorowania składni w _reveal.js_ jest używana w formie wtyczki biblioteka _highlight.js_.
+* Wspierane są języki i składnia: _Apache_ (składnia plików konfiguracyjnych), _Bash_, _CoffeeScript_, _C++_, _C#_, _CSS_, _Diff_, _HTTP_ (składnia żądań i odpowiedzi), _Ini_, _Java_, _Javascript_, _JSON_, _Makefile_, _Markdown_, _Nginx_ (składnia plików konfiguracyjnych), _Objective-C_, _Perl_, _PHP_, _Python_, _Ruby_, _SQL_, _HTML_, _XML_.
 
 
 ### Przykład kodu inline
