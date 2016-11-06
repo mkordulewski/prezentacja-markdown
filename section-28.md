@@ -9,6 +9,7 @@
 * kod może być:
     * liniowy (_inline_),
     * blokowy.
+* kod blokowy może być dodatkowo oznaczony nazwą języka, co zostanie użyte do kolorowania składni.
 
 
 ### Przykład kodu inline
