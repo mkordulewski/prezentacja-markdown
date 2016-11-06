@@ -50,3 +50,28 @@ git clone https://github.com/mkordulewski/prezentacja-markdown.git
 git clone https://github.com/mkordulewski/prezentacja-markdown.git
 ```
 `````
+
+
+### Wpływ deklaracji języka na kolorowanie
+* różne deklaracje języka wpływają na kolorowanie.
+
+---
+Brak deklaracji (automatyczna detekcja języka):
+```
+CREATE TABLE "topic" ("id" serial NOT NULL PRIMARY KEY, "subject" varchar(255) NOT NULL);
+```
+---
+Deklaracja SQL:
+```sql
+CREATE TABLE "topic" ("id" serial NOT NULL PRIMARY KEY, "subject" varchar(255) NOT NULL);
+```
+---
+Deklaracja TEXT:
+```text
+CREATE TABLE "topic" ("id" serial NOT NULL PRIMARY KEY, "subject" varchar(255) NOT NULL);
+```
+---
+Deklaracja HTML, a więc niezgodna z rzeczywistością:
+```html
+CREATE TABLE "topic" ("id" serial NOT NULL PRIMARY KEY, "subject" varchar(255) NOT NULL);
+```
