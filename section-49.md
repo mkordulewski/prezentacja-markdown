@@ -11,7 +11,7 @@
 * W Markdown występują m.in. następujące znaki, które mają znaczenie dla składni: `#`, `*`, `_`, `-`, `+`, `=`, `|`, `:`, ` ` `, `>` oraz znak końca wiersza.
 * Nie są to wszystkie znaki a tylko te, które mogą mieć znaczenie samodzielne lub "prawie samodzielne".
 * Pominięta zostały takie złożone kontrukcje jak np.:
-    * listy numerowane (za pomocą składni: cyfra + kropka)
-    * linki,
-    * osadzanie obrazków,
+    * listy numerowane (za pomocą składni: cyfra + kropka + spacja)
+    * linki (za pomocą składni: `[OPIS](URL)` lub `[OPIS](URL "DYMEK")`),
+    * osadzanie obrazków (za pomocą składni: `![OPIS](URL)`),
     * HTML.
