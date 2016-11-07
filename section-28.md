@@ -115,6 +115,27 @@ git clone https://github.com/mkordulewski/prezentacja-markdown.git
 `````
 
 
+### Przykład kodu zadeklarowanego jako `text`
+* Kod może być zadeklarowany jako `text` co wyłącza kolorowanie składni.
+
+---
+Rezutat:
+```text
+Postępek męski -
+Uśmiechem witać klęski.
+(Jan Sztaudynger)
+```
+---
+Tekst źródłowy:
+````text
+```text
+Postępek męski -
+Uśmiechem witać klęski.
+(Jan Sztaudynger)
+```
+````
+
+
 ### Przykład kodu JSON
 Rezutat:
 ```json
