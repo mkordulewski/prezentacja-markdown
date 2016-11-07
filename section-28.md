@@ -59,6 +59,23 @@ git clone https://github.com/mkordulewski/prezentacja-markdown.git
 `````
 
 
+### Przykład kodu blokowego bez deklaracji języka
+* Niniejszy przykład pomija deklarację języka, według którego kolorowana jest składnia.
+* Przykład jest analogiczny jak w poprzednim slajdzie z pominięciem w/w deklaracji.
+* Warto zwrócić uwagę na jednakowe jak poprzednio kolorowanie składni - został wykorzystany mechanizm automatycznego wykrycia języka.
+
+---
+```
+git clone https://github.com/mkordulewski/prezentacja-markdown.git
+```
+---
+`````
+```
+git clone https://github.com/mkordulewski/prezentacja-markdown.git
+```
+`````
+
+
 ### Wpływ deklaracji języka na kolorowanie
 * różne deklaracje języka wpływają na kolorowanie.
 
