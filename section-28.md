@@ -139,3 +139,33 @@ Tekst źródłowy:
 ]
 ```
 ````
+
+
+### Przykład kodu YAML
+Rezutat:
+```css
+@font-face {
+  font-family: Chunkfive; src: url('Chunkfive.otf');
+}
+@import url(print.css);
+@media print {
+  a[href^=http]::after {
+    content: attr(href)
+  }
+}
+```
+---
+Tekst źródłowy:
+````css
+```css
+@font-face {
+  font-family: Chunkfive; src: url('Chunkfive.otf');
+}
+@import url(print.css);
+@media print {
+  a[href^=http]::after {
+    content: attr(href)
+  }
+}
+```
+````
