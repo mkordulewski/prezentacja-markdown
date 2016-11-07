@@ -30,3 +30,11 @@
 | A         | B         | C         | D         |
 | A A A     | B B B     | C C C     | D D D     |
 ```
+
+
+### Ograniczenia tabel
+* W Markdown tabela **nie** może zawierać:
+    * wielowierszowego nagłówka,
+    * tabel zagnieżdzonych,
+    * komórek połączonych.
+
