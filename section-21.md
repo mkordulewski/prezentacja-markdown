@@ -121,3 +121,8 @@ Pellentesque nec odio non dolor iaculis sodales vitae sed odio.
 Etiam in urna aliquam ante sodales eleifend.
 Cras vitae risus fermentum ipsum facilisis scelerisque ut eu nulla.<!-- .element: style="text-align: justify" -->
 ```
+
+
+### Domyślna postać tekstu
+* Każdy tekst domyślnie jest akapitem jeśli nie jest nagłówkiem, listą, cytatem lub tekstem w komórce tabeli.
+* Czyli akapitem są m.in. "samodzielne" linki, grafiki, kod liniowy. Ale kod blokowy już nie znajduje się w akapicie lecz w blokowym elemencie `pre`.
