@@ -38,3 +38,15 @@
     * tabel zagnieżdzonych,
     * komórek połączonych.
 
+
+### Tabele szarpane
+* Możliwe są tabele szarpane, czyli takie o nierównej licznie komórek w każdym wierszu.
+
+---
+Przykład tabeli szarpanej:
+
+| Państwo          | Język                |
+|:-----------------|:---------------------|
+| Polska           | polski               |
+| USA              | angielski            | nie wszystkie stany posiadają język urzędowy de iure | niektóre stany posiadają dodatkowo języki lokalne, np. hawajski na Hawajach
+| Kanada           | angielski, francuski | prowincje oba lub tylko jeden język urzędowy spośród wymienionych
