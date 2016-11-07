@@ -35,3 +35,10 @@
 - Item 4 <!-- .element: style="color: yellow" -->
 - Item 5 <!-- .element: style="color: brown" -->
 ```
+
+
+### Ograniczenia stylów i klas
+* Style i klasy CSS można nadawać tylko elementom nadrzędnym - wierszom, akapitom, listom, itp.
+* Nie można nadawać stylów ani klas:
+    * pojedynczym słowom,
+    * frazom.
