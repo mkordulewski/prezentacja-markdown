@@ -169,3 +169,35 @@ Tekst źródłowy:
 }
 ```
 ````
+
+
+### Przykład kodu Java
+Rezutat:
+```java
+/**
+ * @author Michael Kordulewski <michael@kordulewski.com>
+*/
+package com.kordulewski;
+public abstract class Calculator extends ICalc {
+  public static final Short ERROR = 0x0001;
+  public void add(int x, int y) {
+    return x+y;
+  }
+}
+```
+---
+Tekst źródłowy:
+````java
+```java
+/**
+ * @author Michael Kordulewski <michael@kordulewski.com>
+*/
+package com.kordulewski;
+public abstract class Calculator extends ICalc {
+  public static final Short ERROR = 0x0001;
+  public void add(int x, int y) {
+    return x+y;
+  }
+}
+```
+````
