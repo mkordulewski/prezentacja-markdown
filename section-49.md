@@ -15,3 +15,28 @@
     * linki (za pomocą składni: `[OPIS](URL)` lub `[OPIS](URL "DYMEK")`),
     * osadzanie obrazków (za pomocą składni: `![OPIS](URL)`),
     * HTML.
+
+
+### Wyświetlanie apostrofu odwrotnego
+ang. backtick `
+* Znak ten służy do osadzania kodu źródłowego w tekście Markdown.
+* By użyć tego znaku normalnie wystarczy użyć go niezgodnie ze składnią, np. umieścić pojedynczo lub podwójnie bez zawartości kodu - rezultat: `, ``.
+* By użyć tego znaku wewnątrz liniowo (_inline_) wystarczy zawartość otoczyć spacjami - rezultat: ` ` `
+* By użyć tego znaku blokowo wystarczy znak apostrofu otoczyć inną liczbą - rezultat blokowo:
+
+`````
+```
+kod blokowy
+```
+`````
+---
+```````
+normalnie:         `, ``
+w kodzie liniowym: ` ` `
+w kodzie blokowym:
+`````
+```
+kod blokowy
+```
+`````
+```````
