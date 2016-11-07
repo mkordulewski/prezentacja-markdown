@@ -173,3 +173,4 @@
 
    Trzeci akapit w ramach punktu 1
 ```
+Tekst źródłowy do poprzedniego slajdu
