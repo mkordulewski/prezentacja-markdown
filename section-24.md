@@ -51,3 +51,8 @@ Wyszukiwarki: [Google][g], [Bing][b], [Yahoo][y].
 [b]: http://bing.com/   "Bing"
 [y]: http://yahoo.com/  "Yahoo"
 ```
+
+
+### Link jako podelement
+* Link zawsze staje się podelementem elementu nadrzędnego blokowego, np. akapitu, (elementu) listy, zawartością komórki tabeli.
+* Domyślnie samodzielny link (w osobnym wierszu) jest podelementem akapitu.
