@@ -99,3 +99,17 @@ Deklaracja HTML, a więc niezgodna z rzeczywistością:
 ```html
 CREATE TABLE "topic" ("id" serial NOT NULL PRIMARY KEY, "subject" varchar(255) NOT NULL);
 ```
+
+
+### Zagnieżdzanie znaczników kodu
+* Niekiedy, jak w niniejszej prezentacji, może być niezbędna konieczność zagnieżdzania znaczników kodu, co ma na celu pokazania tekstu źródłowego ze znacznikami kodu... jako kodu właśnie.
+* Wykorzystamy do tego mechanizm opisany wcześniej - konieczność użycia w znaczniku otwierającym i zamykającym kod jednakowej liczby znaków ` ` `
+* Pozwoli to na wyświetlenie kodu umieszczonego jako kod wraz ze znacznikami kodu.
+---
+`````
+````
+```
+git clone https://github.com/mkordulewski/prezentacja-markdown.git
+```
+````
+`````
