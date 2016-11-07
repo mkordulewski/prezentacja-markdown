@@ -45,3 +45,8 @@
 ```
 [![Atrybut <alt/> elementu <img/>](resources/markdown.svg)](https://pl.wikipedia.org/wiki/Markdown "Atrybut <title/> elementu <a/>")
 ```
+
+
+### Grafika jako podelement
+* Grafika zawsze staje się podelementem elementu nadrzędnego blokowego, np. akapitu, (elementu) listy, zawartością komórki tabeli.
+* Domyślnie samodzielna grafika (w osobnym wierszu) jest podelementem akapitu.
