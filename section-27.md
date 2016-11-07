@@ -16,6 +16,7 @@
 
 ### Równanie poziome w tabelach
 * Równanie w tabelach uzyskiwane jest za pomocą znaku `:` (dwukropek).
+
 ---
 | domyślnie | do lewej  | do środka | do prawej |
 |-----------|:----------|:---------:|----------:|
