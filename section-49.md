@@ -8,7 +8,7 @@
 
 
 ### Znaki znaczące w składni
-* W Markdown występują m.in. następujące znaki, które mają znaczenie dla składni: `#`, `*`, `_`, `-`, `+`, `=`, `|`, ` ` `, `>` oraz znak końca wiersza.
+* W Markdown występują m.in. następujące znaki, które mają znaczenie dla składni: `#`, `*`, `_`, `-`, `+`, `=`, `|`, `:`, ` ` `, `>` oraz znak końca wiersza.
 * Nie są to wszystkie znaki a tylko te, które mogą mieć znaczenie samodzielne lub "prawie samodzielne".
 * Pominięta zostały takie złożone kontrukcje jak np.:
     * listy numerowane (za pomocą składni: cyfra + kropka)
