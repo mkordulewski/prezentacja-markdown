@@ -44,7 +44,9 @@ Fragment kodu: ````git merge ...````
 `````
 
 
-### Przykład kodu blokowego
+### Przykład kodu blokowego z deklaracją języka
+* niniejszy przykład deklaruje język, według którego kolorowana jest składnia.
+
 ---
 ```sh
 git clone https://github.com/mkordulewski/prezentacja-markdown.git
