@@ -113,3 +113,29 @@ git clone https://github.com/mkordulewski/prezentacja-markdown.git
 ```
 ````
 `````
+
+
+### Przykład kodu JSON
+Rezutat:
+```json
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+---
+Tekst źródłowy:
+````json
+```json
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+````
