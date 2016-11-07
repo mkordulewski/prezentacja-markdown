@@ -152,3 +152,16 @@ Albert Einstein:
 Arystoteles:
 > Prawdziwa wiedza to znajomość przyczyn.
 ```
+
+
+### Cytat liniowy
+* Cytat domyślnie jest elementem blokowym.
+* W Markdown nie ma cytatu liniowego jako odrębnego elementu.
+* Jako cytatu liniowego można użyć italików (pochylenia tekstu), np.: _"cytat liniowy"_.
+* Nie staje się on jednak semantycznym cytatem w HTML (`cite`) lecz elementem `em`, więc semantycznie nadal tekstem pochylonym.
+* Takiego cytatu liniowego można użyć w akapicie, liście, tabeli.
+---
+Tekst źródłowy:
+```
+_"cytat liniowy"_
+```
