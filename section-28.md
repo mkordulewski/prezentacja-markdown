@@ -62,7 +62,7 @@ git clone https://github.com/mkordulewski/prezentacja-markdown.git
 ### Przykład kodu blokowego bez deklaracji języka
 * Niniejszy przykład pomija deklarację języka, według którego kolorowana jest składnia.
 * Przykład jest analogiczny jak w poprzednim slajdzie z pominięciem w/w deklaracji.
-* Warto zwrócić uwagę na jednakowe jak poprzednio kolorowanie składni - został wykorzystany mechanizm automatycznego wykrycia języka.
+* Warto zwrócić uwagę na kolorowanie składni, które także zostało wykonane lecz z nieco odmiennym skutkiem - został wykorzystany mechanizm automatycznego wykrycia języka z odmiennym rezultatem.
 
 ---
 ```
