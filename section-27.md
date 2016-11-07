@@ -22,9 +22,11 @@
 | domyślnie | do lewej  | do środka | do prawej |
 |-----------|:----------|:---------:|----------:|
 | A         | B         | C         | D         |
+| A A A     | B B B     | C C C     | D D D     |
 ---
 ```
 | domyślnie | do lewej  | do środka | do prawej |
 |-----------|:----------|:---------:|----------:|
 | A         | B         | C         | D         |
+| A A A     | B B B     | C C C     | D D D     |
 ```
