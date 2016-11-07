@@ -23,6 +23,7 @@
 * Możliwe jest także zadeklarowanie kodu jako `text`, co wyłącza kolorowanie składni.
 * Możliwe jest także pominięcie deklaracji języka kodu, co włącza automatyczną detekcję języka.
 * W deklaracji języka nie ma znaczenia wielkość znaków, jednak zwyczajowo deklaracje są pisane małymi literami.
+* Warto zaznaczyć, że pominięcie deklaracji języka i deklaracja `text` nie są równoważne.
 
 
 ### Przykład kodu inline
